@@ -41,6 +41,6 @@ Note: these are preliminary results, and they will be expanded in the final proj
 
 #### Outline of project
 - Jupyter Notebook
-  - [mental-health](https://..)
+  - [mental-health](https://github.com/ivan-troy-2001/Mental-Health/blob/main/mental-health-v1.ipynb)
 
 ##### Contact and Further Information
