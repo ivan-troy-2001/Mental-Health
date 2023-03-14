@@ -36,7 +36,7 @@ What are the contributing factors to seek treatment for mental health at workpla
   - Respondents who feel a mental condition interferes with their work are more likely to seek treatment.
   - The majority of individuals surveyed work in tech companies.
 - Data Preparation
-  - Object types were convented to category types for a more efficient memory usage and faster training.
+  - Object types were converted to category types for a more efficient memory usage and faster training.
   - Comments column was removed since it is mostly empty.
   - Timestamp column was removed since it is not relevant to the target model.
   - Age column contained outliers which were removed.
@@ -70,4 +70,4 @@ What are the contributing factors to seek treatment for mental health at workpla
 - Jupyter Notebook: [mental-health-final](https://github.com/ivan-troy-2001/Mental-Health/blob/main/mental-health-final.ipynb)
 
 ### Contact and Further Information
-[Contact ME](mailto:itsantaella@gmail.com)
+[Contact Me](mailto:itsantaella@gmail.com)
